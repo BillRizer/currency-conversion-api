@@ -1,0 +1,5 @@
+get localhost:3000/exchange/?from=USD&toBRL&amount=5
+
+####
+
+get localhost:3000/exchange/?from=USD&toBRL&amount=5
